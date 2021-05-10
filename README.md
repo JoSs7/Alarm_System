@@ -1,2 +1,2 @@
-# Trabajos_DAW
-Trabajos de grado superior DAW
+# Alarm_System
+Alarm management system with Vue.js
