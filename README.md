@@ -1,2 +1,2 @@
 # Alarm_System
-Alarm management system with Vue.js
+Alarm management system Single-page application (SPA) with Vue.js
